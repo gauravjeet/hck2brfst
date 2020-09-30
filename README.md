@@ -9,3 +9,6 @@ Done!
 Example
 - [Gauravjeet Singh](https://github.com/gauravjeet)
 Note: If you're still having trouble, follow this simple guide step-by-step.
+
+
+- [Durga Prasad](https://github.com/nerdcode)
