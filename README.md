@@ -13,3 +13,5 @@ Note: If you're still having trouble, follow this simple guide step-by-step.
 - [gauravjeet](https://github.com/gauravjeet)
 - [Durga Prasad](https://github.com/nerdcode)
 - [Anisha Swain](https://github.com/anishaswain)
+- [manish](https://github.com/srdevelopermanish)
+
